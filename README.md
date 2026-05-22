@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I'm currently working on Mart Api<br>👥 I'm looking to collaborate on Gen Ai Projects<br>💰 I'm looking for help with Gen Ai<br>🌱 I'm currently learning Gen Ai<br>💬 Ask me about Python and Gen Ai<br>
+🔭 I'm currently working on Geozation AI<br>👥 I'm looking to collaborate on Gen Ai Projects<br>💰 I'm looking for help with Gen Ai<br>🌱 I'm currently learning Gen Ai<br>💬 Ask me about geo and Gen Ai<br>
 
 
 ## 🌐 Socials:
